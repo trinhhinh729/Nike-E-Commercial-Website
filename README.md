@@ -1,2 +1,2 @@
 # nikeE-Commerce
-design nikeE-Commerce html css js
+E-commercial Website with HTML/CSS/JavaScript for selling Nike's products
